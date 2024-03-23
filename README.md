@@ -17,6 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Nikhil085&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikhil085&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nikhil085&label=Mern%20Stack%20Developer&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
